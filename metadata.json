@@ -1,0 +1,7 @@
+{
+  "max-instances": "-1",
+  "icon": "cloudflare_off",
+  "name": "Cloudflare CTRL",
+  "uuid": "cloudflare-ctrl@huy",
+  "description": "Indicate and control your cloudflare connection"
+}
